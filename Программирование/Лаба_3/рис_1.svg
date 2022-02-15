@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 393 622.1" style="enable-background:new 0 0 393 622.1;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{filter:url(#dropShadow);}
+	.st2{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st3{stroke:#000000;stroke-miterlimit:10;}
+	.st4{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st5{fill:#FFFFFF;stroke:#000000;}
+	.st6{enable-background:new    ;}
+	.st7{font-family:'ArialMT';}
+	.st8{font-size:12px;}
+	.st9{letter-spacing:-1;}
+</style>
+<filter  id="dropShadow">
+	<feGaussianBlur  in="SourceAlpha" result="blur" stdDeviation="1.7"></feGaussianBlur>
+	<feOffset  dx="3" dy="3" in="blur" result="offsetBlur"></feOffset>
+	<feFlood  flood-color="#3D4574" flood-opacity="0.4" result="offsetColor"></feFlood>
+	<feComposite  in="offsetColor" in2="offsetBlur" operator="in" result="offsetBlur"></feComposite>
+	<feBlend  in="SourceGraphic" in2="offsetBlur" mode="normal"></feBlend>
+</filter>
+<path class="st0" d="z"/>
+<g class="st1">
+	<path pointer-events="stroke" class="st2" d="M1113.9,895.6l-0.2,13.6"/>
+	<path pointer-events="all" class="st3" d="M1113.6,914.5l-3.4-7l3.5,1.8l3.5-1.7L1113.6,914.5z"/>
+	<path pointer-events="stroke" class="st2" d="M1113.5,945.6v13.6"/>
+	<path pointer-events="all" class="st3" d="M1113.5,964.5l-3.5-7l3.5,1.8l3.5-1.8L1113.5,964.5z"/>
+	<path pointer-events="all" class="st4" d="M1045.9,945.6l20-30h115.5l-20,30H1045.9z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1091.6709 934.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">В</tspan><tspan x="8" y="0" class="st7 st8">в</tspan><tspan x="14.2" y="0" class="st7 st8">о</tspan><tspan x="20.7" y="0" class="st7 st8">д   x</tspan></text>
+	</g>
+	<path pointer-events="stroke" class="st2" d="M1120,1501.6v20v-19l-0.1,13.6"/>
+	<path pointer-events="all" class="st3" d="M1119.9,1521.5l-3.5-7l3.5,1.8l3.5-1.7L1119.9,1521.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1267.3662 889.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">Зад</tspan><tspan x="20.9" y="0" class="st7 st8">а</tspan><tspan x="27.3" y="0" class="st7 st8">ча 6</tspan></text>
+	</g>
+	<path pointer-events="stroke" class="st2" d="M1163.9,985.6h48.6"/>
+	<path pointer-events="all" class="st3" d="M1217.8,985.6l-7,3.5l1.8-3.5l-1.8-3.5L1217.8,985.6z"/>
+	<path pointer-events="stroke" class="st2" d="M1114,1005.6v20l0.4,4.7"/>
+	<path pointer-events="all" class="st3" d="M1114.9,1035.6l-4.1-6.7l3.7,1.4l3.3-2.1L1114.9,1035.6z"/>
+	<path pointer-events="all" class="st4" d="M1113.9,965.6l50,20l-50,20l-50-20L1113.9,965.6z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1093.6514 989.6102)" class="st7 st8">x = 901</text>
+	</g>
+	<path pointer-events="all" class="st4" d="M1052.9,1501.6l20-30h114l-20,30H1052.9z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1093.3584 1490.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">Вы</tspan><tspan x="16.6" y="0" class="st7 st8">в</tspan><tspan x="22.9" y="0" class="st7 st8">о</tspan><tspan x="29.3" y="0" class="st7 st8">д   y</tspan></text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1181.0996 971.6102)" class="st7 st8">Да</text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1068.2812 1022.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">Н</tspan><tspan x="8.7" y="0" class="st7 st8">е</tspan><tspan x="14.9" y="0" class="st7 st8">т</tspan></text>
+	</g>
+	<path pointer-events="stroke" class="st2" d="M1360.9,985.6h38.1v465h-117l-154.8-1"/>
+	<path pointer-events="all" class="st3" d="M1122,1449.6l7-3.5l-1.8,3.5l1.7,3.5L1122,1449.6z"/>
+	<rect x="1218.9" y="973.1" pointer-events="all" class="st5" width="142" height="25"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1231.5479 989.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">y = &quot;Д</tspan><tspan x="32.1" y="0" class="st7 st8">е</tspan><tspan x="38.3" y="0" class="st7 st8">л</tspan><tspan x="45.3" y="0" class="st7 st8">ь</tspan><tspan x="50.7" y="0" class="st7 st8">т</tspan><tspan x="56" y="0" class="st7 st8">а </tspan><tspan x="66" y="0" class="st7 st8">т</tspan><tspan x="71.4" y="0" class="st7 st8">е</tspan><tspan x="77.7" y="0" class="st7 st8">ле</tspan><tspan x="91.3" y="0" class="st7 st8">к</tspan><tspan x="96.7" y="0" class="st7 st8">ом&quot;</tspan></text>
+	</g>
+	<path pointer-events="stroke" class="st2" d="M1164.9,1056.6h48.6"/>
+	<path pointer-events="all" class="st3" d="M1218.8,1056.6l-7,3.5l1.8-3.5l-1.8-3.5L1218.8,1056.6z"/>
+	<path pointer-events="stroke" class="st2" d="M1115,1076.6v20.1v-1.3"/>
+	<path pointer-events="all" class="st3" d="M1115,1100.5l-3.5-7l3.5,1.8l3.5-1.8L1115,1100.5z"/>
+	<path pointer-events="all" class="st4" d="M1114.9,1036.6l50,20l-50,20l-50-20L1114.9,1036.6z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1079.1357 1060.6102)" class="st7 st8">904, 960-966</text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1182.0996 1042.6102)" class="st7 st8">Да</text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1069.2812 1093.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">Н</tspan><tspan x="8.7" y="0" class="st7 st8">е</tspan><tspan x="14.9" y="0" class="st7 st8">т</tspan></text>
+	</g>
+	<path pointer-events="stroke" class="st2" d="M1361.9,1056.6h20.1h10.5"/>
+	<path pointer-events="all" class="st3" d="M1397.8,1056.6l-7,3.5l1.8-3.5l-1.8-3.5L1397.8,1056.6z"/>
+	<rect x="1219.9" y="1044.1" pointer-events="all" class="st5" width="142" height="25"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1221.9629 1060.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">y = &quot;Вымп</tspan><tspan x="55.3" y="0" class="st7 st8">е</tspan><tspan x="61.6" y="0" class="st7 st8">л</tspan><tspan x="68.6" y="0" class="st7 st8">к</tspan><tspan x="74" y="0" class="st7 st8">ом билайн&quot;</tspan></text>
+	</g>
+	<path pointer-events="stroke" class="st2" d="M1176.4,1126.1h22.1l16-1.8"/>
+	<path pointer-events="all" class="st3" d="M1219.8,1123.7l-6.6,4.3l1.4-3.7l-2.1-3.3L1219.8,1123.7z"/>
+	<path pointer-events="stroke" class="st2" d="M1115,1150.6v13.7"/>
+	<path pointer-events="all" class="st3" d="M1115,1169.5l-3.5-7l3.5,1.8l3.5-1.8L1115,1169.5z"/>
+	<path pointer-events="all" class="st4" d="M1115.1,1101.6l61.2,24.5l-61.2,24.5l-61.2-24.5L1115.1,1101.6z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1072.1318 1129.6102)" class="st7 st8">903, 905, 906,...</text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1183.0996 1109.6102)" class="st7 st8">Да</text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1070.2812 1160.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">Н</tspan><tspan x="8.7" y="0" class="st7 st8">е</tspan><tspan x="14.9" y="0" class="st7 st8">т</tspan></text>
+	</g>
+	<path pointer-events="stroke" class="st2" d="M1362.9,1123.6h20.1h8.5"/>
+	<path pointer-events="all" class="st3" d="M1396.8,1123.6l-7,3.5l1.8-3.5l-1.8-3.5L1396.8,1123.6z"/>
+	<rect x="1220.9" y="1108.4" pointer-events="all" class="st5" width="142" height="30.5"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1205.8682 1127.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">y = &quot;</tspan><tspan x="23.9" y="0" class="st7 st8">С</tspan><tspan x="32.7" y="0" class="st7 st8">ан</tspan><tspan x="46" y="0" class="st7 st8">к</tspan><tspan x="51.4" y="0" class="st7 st8">т-П</tspan><tspan x="69.5" y="0" class="st7 st8">е</tspan><tspan x="75.8" y="0" class="st7 st8">т</tspan><tspan x="81.2" y="0" class="st7 st8">ер</tspan><tspan x="94.5" y="0" class="st7 st8">б</tspan><tspan x="101.1" y="0" class="st7 st8">у</tspan><tspan x="107" y="0" class="st7 st8">рг </tspan><tspan x="121.4" y="0" class="st7 st8">т</tspan><tspan x="126.7" y="0" class="st7 st8">е</tspan><tspan x="133" y="0" class="st7 st8">ле</tspan><tspan x="146.7" y="0" class="st7 st8">к</tspan><tspan x="152.1" y="0" class="st7 st8">ом&quot;</tspan></text>
+	</g>
+	<path pointer-events="stroke" class="st2" d="M1166.9,1193.6h48.6"/>
+	<path pointer-events="all" class="st3" d="M1220.8,1193.6l-7,3.5l1.8-3.5l-1.8-3.5L1220.8,1193.6z"/>
+	<path pointer-events="stroke" class="st2" d="M1120,1212.4v21.2v6.5"/>
+	<path pointer-events="all" class="st3" d="M1120,1245.3l-3.5-7l3.5,1.8l3.5-1.8L1120,1245.3z"/>
+	<path pointer-events="all" class="st4" d="M1116.9,1173.6l50,20l-50,20l-50-20L1116.9,1173.6z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1097.0967 1197.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">x = 9</tspan><tspan x="26.3" y="0" class="st7 st8">1</tspan><tspan x="32.1" y="0" class="st7 st8">1</tspan></text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1184.0996 1179.6102)" class="st7 st8">Да</text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1071.2812 1230.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">Н</tspan><tspan x="8.7" y="0" class="st7 st8">е</tspan><tspan x="14.9" y="0" class="st7 st8">т</tspan></text>
+	</g>
+	<path pointer-events="stroke" class="st2" d="M1363.9,1193.6h20.1h9.5"/>
+	<path pointer-events="all" class="st3" d="M1398.8,1193.6l-7,3.5l1.8-3.5l-1.8-3.5L1398.8,1193.6z"/>
+	<rect x="1221.9" y="1181.1" pointer-events="all" class="st5" width="142" height="25"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1265.4062 1197.6102)" class="st7 st8">y = &quot;МТС&quot;</text>
+	</g>
+	<path pointer-events="stroke" class="st2" d="M1171.6,1267.1h25.9l19-1.1"/>
+	<path pointer-events="all" class="st3" d="M1221.8,1265.7l-6.8,3.9l1.5-3.6l-1.9-3.4L1221.8,1265.7z"/>
+	<path pointer-events="stroke" class="st2" d="M1118.5,1288.6v20.1l0.2,3.7"/>
+	<path pointer-events="all" class="st3" d="M1118.9,1317.6l-3.8-6.8l3.6,1.6l3.4-1.9L1118.9,1317.6z"/>
+	<path pointer-events="all" class="st4" d="M1118.4,1245.8l53.5,21.4l-53.5,21.4l-53.5-21.4L1118.4,1245.8z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1088.4766 1270.6102)" class="st7 st8">921, 929,...</text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1185.0996 1251.6102)" class="st7 st8">Да</text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1072.2812 1302.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">Н</tspan><tspan x="8.7" y="0" class="st7 st8">е</tspan><tspan x="14.9" y="0" class="st7 st8">т</tspan></text>
+	</g>
+	<path pointer-events="stroke" class="st2" d="M1364.9,1265.6h20.1h-6h13.5"/>
+	<path pointer-events="all" class="st3" d="M1397.8,1265.6l-7,3.5l1.8-3.5l-1.8-3.5L1397.8,1265.6z"/>
+	<rect x="1222.9" y="1253.1" pointer-events="all" class="st5" width="142" height="25"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1254.0195 1269.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">y = &quot;</tspan><tspan x="23.9" y="0" class="st7 st8">М</tspan><tspan x="34.1" y="0" class="st7 st8">е</tspan><tspan x="40.7" y="0" class="st7 st8">г</tspan><tspan x="44.9" y="0" class="st7 st8">афон&quot;</tspan></text>
+	</g>
+	<path pointer-events="stroke" class="st2" d="M1168.9,1338.6h48.6"/>
+	<path pointer-events="all" class="st3" d="M1222.8,1338.6l-7,3.5l1.8-3.5l-1.8-3.5L1222.8,1338.6z"/>
+	<path pointer-events="stroke" class="st2" d="M1119,1358.6v21.1l0.7,14.1"/>
+	<path pointer-events="all" class="st3" d="M1119.9,1399l-3.8-6.8l3.6,1.6l3.4-1.9L1119.9,1399z"/>
+	<path pointer-events="all" class="st4" d="M1118.9,1318.6l50,20l-50,20l-50-20L1118.9,1318.6z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1108.4893 1342.6102)" class="st7 st8">999</text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1186.0996 1324.6102)" class="st7 st8">Да</text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1073.2812 1375.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">Н</tspan><tspan x="8.7" y="0" class="st7 st8">е</tspan><tspan x="14.9" y="0" class="st7 st8">т</tspan></text>
+	</g>
+	<path pointer-events="stroke" class="st2" d="M1365.9,1338.6h20.1h-7h13.5"/>
+	<path pointer-events="all" class="st3" d="M1397.8,1338.6l-7,3.5l1.8-3.5l-1.8-3.5L1397.8,1338.6z"/>
+	<rect x="1223.9" y="1326.1" pointer-events="all" class="st5" width="142" height="25"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1266.8672 1342.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">y = &quot;Й</tspan><tspan x="32.6" y="0" class="st7 st8">о</tspan><tspan x="39" y="0" class="st7 st8">т</tspan><tspan x="44.3" y="0" class="st7 st8">а&quot;</tspan></text>
+	</g>
+	<path pointer-events="stroke" class="st2" d="M1119.9,1425.1v40.1"/>
+	<path pointer-events="all" class="st3" d="M1119.9,1470.5l-3.5-7l3.5,1.8l3.5-1.8L1119.9,1470.5z"/>
+	<path pointer-events="stroke" class="st2" d="M1190.9,1412.6h201.6"/>
+	<path pointer-events="all" class="st3" d="M1397.8,1412.6l-7,3.5l1.8-3.5l-1.8-3.5L1397.8,1412.6z"/>
+	<rect x="1048.9" y="1400.1" pointer-events="all" class="st5" width="142" height="25"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1064.2373 1416.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">y = &quot;Не су</tspan><tspan x="54.6" y="0" class="st7 st8">щ</tspan><tspan x="64.3" y="0" class="st7 st8">ест</tspan><tspan x="82.5" y="0" class="st7 st8">в</tspan><tspan x="88.6" y="0" class="st7 st8">у</tspan><tspan x="94.5" y="0" class="st7 st8">е</tspan><tspan x="100.8" y="0" class="st7 st8">т&quot;</tspan></text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 650.3662 857.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">Зад</tspan><tspan x="20.9" y="0" class="st7 st8">а</tspan><tspan x="27.3" y="0" class="st7 st8">ча 5</tspan></text>
+	</g>
+	<ellipse pointer-events="all" class="st5" cx="477.7" cy="831.9" rx="34.9" ry="23.2"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 457.6133 835.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">н</tspan><tspan x="6.6" y="0" class="st7 st8">а</tspan><tspan x="13" y="0" class="st7 st8">ча</tspan><tspan x="26" y="0" class="st7 st8">л</tspan><tspan x="33.1" y="0" class="st7 st8">о</tspan></text>
+	</g>
+	<path pointer-events="stroke" class="st2" d="M478.1,856.1l0.1,17.5"/>
+	<path pointer-events="all" class="st3" d="M478.3,878.8l-3.6-7l3.5,1.7l3.5-1.8L478.3,878.8z"/>
+	<path pointer-events="all" class="st4" d="M430.9,927.6l20-47.6h75.3l-20,47.6H430.9z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 447.4717 907.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">в</tspan><tspan x="6.4" y="0" class="st7 st8">в</tspan><tspan x="12.6" y="0" class="st7 st8">о</tspan><tspan x="19" y="0" class="st7 st8">д shape</tspan></text>
+	</g>
+	<path pointer-events="stroke" class="st2" d="M478.1,927.6l0.1,17.6"/>
+	<path pointer-events="all" class="st3" d="M478.3,950.4l-3.5-7l3.5,1.7l3.5-1.8L478.3,950.4z"/>
+	<path pointer-events="all" class="st4" d="M478.5,951.4l47.6,31.8l-47.6,31.8l-47.6-31.8L478.5,951.4z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 457.1543 986.6102)" class="st7 st8"> triangle</text>
+	</g>
+	<path pointer-events="all" class="st4" d="M550,1007l20-47.6h75.3l-20,47.6H550z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 584.4922 986.6102)" class="st7 st8">a,b,c</text>
+	</g>
+	<path pointer-events="all" class="st4" d="M772.2,951.4h149.6v55.6c-24.9-9.5-49.9-9.5-74.8,0c-24.9,9.5-49.9,9.5-74.8,0v-47.6
+		V951.4z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 833.4902 979.6102)" class="st7 st8">2*p...</text>
+	</g>
+	<path pointer-events="stroke" class="st2" d="M478.1,1094.3v25.4"/>
+	<path pointer-events="all" class="st3" d="M478.1,1124.9l-3.5-7l3.5,1.8l3.5-1.8L478.1,1124.9z"/>
+	<rect x="669" y="967.3" pointer-events="all" class="st5" width="71.5" height="31.8"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 671.9775 986.6102)" class="st7 st8">p=(a+b+c)/2</text>
+	</g>
+	<path pointer-events="all" class="st4" d="M478.5,1038.7l47.6,31.8l-47.6,31.8l-47.6-31.8L478.5,1038.7z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 453.8174 1073.6102)" class="st7 st8">rectangle</text>
+	</g>
+	<path pointer-events="all" class="st4" d="M478.5,1126l47.6,31.8l-47.6,31.8l-47.6-31.8L478.5,1126z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 460.1543 1161.6102)" class="st7 st8">square</text>
+	</g>
+	<path pointer-events="all" class="st4" d="M478.5,1221.3l47.6,31.8l-47.6,31.8l-47.6-31.8L478.5,1221.3z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 464.499 1256.6102)" class="st7 st8">circle</text>
+	</g>
+	<path pointer-events="all" class="st4" d="M478.5,1316.6l47.6,31.8l-47.6,31.8l-47.6-31.8L478.5,1316.6z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 453.8174 1351.6102)" class="st7 st8">trapezoid</text>
+	</g>
+	<path pointer-events="all" class="st4" d="M478.5,1403.9l47.6,31.8l-47.6,31.8l-47.6-31.8L478.5,1403.9z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 455.1562 1439.6102)" class="st7 st8">rhombus</text>
+	</g>
+	<path pointer-events="all" class="st4" d="M550,1094.3l20-47.6h75.3l-20,47.6H550z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 589.1592 1073.6102)" class="st7 st8">a,b</text>
+	</g>
+	<path pointer-events="stroke" class="st2" d="M477.7,1014.9v17.4"/>
+	<path pointer-events="all" class="st3" d="M477.7,1037.6l-3.5-7l3.5,1.8l3.5-1.8L477.7,1037.6z"/>
+	<path pointer-events="stroke" class="st2" d="M477.7,1189.6v25.4"/>
+	<path pointer-events="all" class="st3" d="M477.7,1220.2l-3.5-7l3.5,1.8l3.5-1.8L477.7,1220.2z"/>
+	<path pointer-events="all" class="st4" d="M669,1038.7h95.3v54c-15.9-11.4-31.8-11.4-47.6,0c-15.9,11.4-31.8,11.4-47.6,0v-44.5
+		V1038.7z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 691.6533 1063.6102)" class="st7 st8">2*(a+b)...</text>
+	</g>
+	<path pointer-events="all" class="st4" d="M550,1181.6l20-47.6h75.3l-20,47.6H550z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 594.1631 1161.6102)" class="st7 st8">a</text>
+	</g>
+	<path pointer-events="all" class="st4" d="M669,1126h95.3v54c-15.9-11.4-31.8-11.4-47.6,0c-15.9,11.4-31.8,11.4-47.6,0v-44.5V1126z
+		"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 698.4941 1151.6102)" class="st7 st8">4*(a)...</text>
+	</g>
+	<path pointer-events="all" class="st4" d="M550,1276.9l20-47.6h75.3l-20,47.6H550z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 594.1631 1256.6102)" class="st7 st8">a</text>
+	</g>
+	<path pointer-events="all" class="st4" d="M669,1221.3h95.3v54c-15.9-11.4-31.8-11.4-47.6,0c-15.9,11.4-31.8,11.4-47.6,0v-44.5
+		V1221.3z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 682.8145 1246.6102)" class="st7 st8">2*(a)* 3,14...</text>
+	</g>
+	<path pointer-events="all" class="st4" d="M550,1372.1l20-47.6h75.3l-20,47.6H550z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 574.4844 1351.6102)" class="st7 st8">a,b,c,d,h</text>
+	</g>
+	<path pointer-events="all" class="st4" d="M669,1316.6h95.3v54c-15.9-11.4-31.8-11.4-47.6,0c-15.9,11.4-31.8,11.4-47.6,0v-44.4
+		V1316.6z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 687.9766 1341.6102)" class="st7 st8">a+b+c+d...</text>
+	</g>
+	<path pointer-events="stroke" class="st2" d="M477.7,1284.8v25.4"/>
+	<path pointer-events="all" class="st3" d="M477.7,1315.5l-3.5-7l3.5,1.8l3.5-1.8L477.7,1315.5z"/>
+	<path pointer-events="all" class="st4" d="M550,1459.5l20-47.6h75.3l-20,47.6H550z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 589.1592 1439.6102)" class="st7 st8">a,b</text>
+	</g>
+	<path pointer-events="all" class="st4" d="M669,1403.9h95.3v59.5c-15.9-4.8-31.8-4.8-47.6,0c-15.9,4.8-31.8,4.8-47.6,0v-55.6
+		V1403.9z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 675.5078 1434.6102)" class="st7 st8">((a / 2) ^ 2 + (...</text>
+	</g>
+	<path pointer-events="stroke" class="st2" d="M478.5,1467.4v39.3"/>
+	<path pointer-events="all" class="st3" d="M478.5,1512l-3.5-7l3.5,1.8l3.5-1.8L478.5,1512z"/>
+	<ellipse pointer-events="all" class="st5" cx="478.5" cy="1538.9" rx="38.6" ry="25.8"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 462.3838 1542.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">к</tspan><tspan x="5.4" y="0" class="st7 st8">онец</tspan></text>
+	</g>
+	<path pointer-events="stroke" class="st2" d="M526.1,983.1h25.4"/>
+	<path pointer-events="all" class="st3" d="M556.8,983.1l-7,3.5l1.8-3.5l-1.8-3.5L556.8,983.1z"/>
+	<path pointer-events="stroke" class="st2" d="M637.3,983.1h25.4"/>
+	<path pointer-events="all" class="st3" d="M667.9,983.1l-7,3.5l1.8-3.5l-1.8-3.5L667.9,983.1z"/>
+	<path pointer-events="stroke" class="st2" d="M478.5,1380.1v17.5"/>
+	<path pointer-events="all" class="st3" d="M478.5,1402.8l-3.5-7l3.5,1.8l3.5-1.8L478.5,1402.8z"/>
+	<path pointer-events="stroke" class="st2" d="M526.1,1070.5h25.4"/>
+	<path pointer-events="all" class="st3" d="M556.8,1070.5l-7,3.5l1.8-3.5l-1.8-3.5L556.8,1070.5z"/>
+	<path pointer-events="stroke" class="st2" d="M526.1,1157.8h25.4"/>
+	<path pointer-events="all" class="st3" d="M556.8,1157.8l-7,3.5l1.8-3.5l-1.8-3.5L556.8,1157.8z"/>
+	<path pointer-events="stroke" class="st2" d="M526.1,1252.1h25.4"/>
+	<path pointer-events="all" class="st3" d="M556.8,1252.1l-7,3.5l1.8-3.5l-1.8-3.5L556.8,1252.1z"/>
+	<path pointer-events="stroke" class="st2" d="M526.1,1348.3h25.4"/>
+	<path pointer-events="all" class="st3" d="M556.8,1348.3l-7,3.5l1.8-3.5l-1.8-3.5L556.8,1348.3z"/>
+	<path pointer-events="stroke" class="st2" d="M526.1,1435.7h25.4"/>
+	<path pointer-events="all" class="st3" d="M556.8,1435.7l-7,3.5l1.8-3.5l-1.8-3.5L556.8,1435.7z"/>
+	<path pointer-events="stroke" class="st2" d="M637.3,1434.9h25.4"/>
+	<path pointer-events="all" class="st3" d="M667.9,1434.9l-7,3.5l1.8-3.5l-1.8-3.5L667.9,1434.9z"/>
+	<path pointer-events="stroke" class="st2" d="M637.3,1348.3h25.4"/>
+	<path pointer-events="all" class="st3" d="M667.9,1348.3l-7,3.5l1.8-3.5l-1.8-3.5L667.9,1348.3z"/>
+	<path pointer-events="stroke" class="st2" d="M637.3,1253.1h25.4"/>
+	<path pointer-events="all" class="st3" d="M667.9,1253.1l-7,3.5l1.8-3.5l-1.8-3.5L667.9,1253.1z"/>
+	<path pointer-events="stroke" class="st2" d="M637.3,1165.7h25.4"/>
+	<path pointer-events="all" class="st3" d="M667.9,1165.7l-7,3.5l1.8-3.5l-1.8-3.5L667.9,1165.7z"/>
+	<path pointer-events="stroke" class="st2" d="M740.5,983.1h25.4"/>
+	<path pointer-events="all" class="st3" d="M771.1,983.1l-7,3.5l1.8-3.5l-1.8-3.5L771.1,983.1z"/>
+	<path pointer-events="stroke" class="st2" d="M637.3,1070.5h25.4"/>
+	<path pointer-events="all" class="st3" d="M667.9,1070.5l-7,3.5l1.8-3.5l-1.8-3.5L667.9,1070.5z"/>
+	<path pointer-events="stroke" class="st2" d="M867.5,975.2H929c6.7,0,10,3.3,10,10v488.1c0,6.7-3.3,10-10,10H484.9"/>
+	<path pointer-events="all" class="st3" d="M479.6,1483.3l7-3.5l-1.8,3.5l1.8,3.5L479.6,1483.3z"/>
+	<path pointer-events="stroke" class="st2" d="M764.3,1070.5H939"/>
+	<path pointer-events="stroke" class="st2" d="M764.3,1157H939"/>
+	<path pointer-events="stroke" class="st2" d="M764.3,1252.3H939"/>
+	<path pointer-events="stroke" class="st2" d="M764.3,1348.3H939"/>
+	<path pointer-events="stroke" class="st2" d="M764.3,1427.7H939"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 535.6621 978.6102)" class="st7 st8">да</text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 535.6621 1066.6102)" class="st7 st8">да</text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 527.6621 1153.6102)" class="st7 st8">да</text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 535.6621 1248.6102)" class="st7 st8">да</text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 527.6621 1335.6102)" class="st7 st8">да</text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 527.6621 1431.6102)" class="st7 st8">да</text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 453.3008 1034.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">н</tspan><tspan x="6.6" y="0" class="st7 st8">е</tspan><tspan x="12.9" y="0" class="st7 st8">т</tspan></text>
+	</g>
+	<ellipse pointer-events="none" class="st5" cx="1141.7" cy="11.1" rx="52.2" ry="28.4"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1121.6133 14.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">н</tspan><tspan x="6.6" y="0" class="st7 st8">а</tspan><tspan x="13" y="0" class="st7 st8">ча</tspan><tspan x="26" y="0" class="st7 st8">л</tspan><tspan x="33.1" y="0" class="st7 st8">о</tspan></text>
+	</g>
+	<path pointer-events="none" class="st4" d="M1089.5,110.6l20-42.7h84.5l-20,42.7H1089.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1123.8193 92.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">в</tspan><tspan x="6.4" y="0" class="st7 st8">в</tspan><tspan x="12.6" y="0" class="st7 st8">о</tspan><tspan x="19" y="0" class="st7 st8">д k</tspan></text>
+	</g>
+	<path pointer-events="none" class="st2" d="M1141.7,39.5l0.3,20.1V48.1v13.5"/>
+	<path pointer-events="none" class="st3" d="M1142,66.8l-3.5-7l3.5,1.8l3.5-1.8L1142,66.8z"/>
+	<rect x="1089.5" y="139.1" pointer-events="none" class="st5" width="104.5" height="42.7"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1093.9834 163.6102)" class="st7 st8">k = Int((4 * Rnd)...</text>
+	</g>
+	<path pointer-events="none" class="st2" d="M1142,110.6v20v-11.5v13.6"/>
+	<path pointer-events="none" class="st3" d="M1142,138l-3.5-7l3.5,1.8l3.5-1.8L1142,138z"/>
+	<path pointer-events="none" class="st2" d="M1141.5,288.2v20.4v-19l0.2,13.8"/>
+	<path pointer-events="none" class="st3" d="M1141.7,308.7l-3.6-7l3.5,1.7l3.5-1.8L1141.7,308.7z"/>
+	<path pointer-events="none" class="st4" d="M1141.7,231.5l34.8,28.5l-34.8,28.4l-34.8-28.4L1141.7,231.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1138.1631 263.6102)" class="st7 st8">2</text>
+	</g>
+	<path pointer-events="none" class="st2" d="M1142,181.8v24.9l-0.4,18.8"/>
+	<path pointer-events="none" class="st3" d="M1141.5,230.6l-3.4-7.1l3.5,1.8l3.5-1.7L1141.5,230.6z"/>
+	<path pointer-events="none" class="st4" d="M1141.7,309.8l34.8,28.4l-34.8,28.5l-34.8-28.5L1141.7,309.8z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1138.1631 341.6102)" class="st7 st8">3</text>
+	</g>
+	<path pointer-events="none" class="st4" d="M1141.7,388l34.8,28.5l-34.8,28.4l-34.8-28.4L1141.7,388z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1138.1631 419.6102)" class="st7 st8">4</text>
+	</g>
+	<path pointer-events="none" class="st2" d="M1141.5,366.5v20.1v-18.5v13.7"/>
+	<path pointer-events="none" class="st3" d="M1141.5,387.1l-3.5-7l3.5,1.8l3.5-1.8L1141.5,387.1z"/>
+	<path pointer-events="none" class="st2" d="M1176.3,501.6h30.7l24.1,0.2"/>
+	<path pointer-events="none" class="st3" d="M1236.4,501.8l-7,3.5l1.8-3.5l-1.7-3.5L1236.4,501.8z"/>
+	<path pointer-events="none" class="st4" d="M1141.7,473.4l34.8,28.5l-34.8,28.5l-34.8-28.5L1141.7,473.4z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1138.1631 505.6102)" class="st7 st8">5</text>
+	</g>
+	<path pointer-events="none" class="st2" d="M1141.5,444.7v20.4v-12v14.1"/>
+	<path pointer-events="none" class="st3" d="M1141.5,472.4l-3.5-7l3.5,1.8l3.5-1.8L1141.5,472.4z"/>
+	<path pointer-events="none" class="st2" d="M1345.4,338.1h20.1l13.6,0.1"/>
+	<path pointer-events="none" class="st3" d="M1384.4,338.2l-7,3.5l1.8-3.5l-1.7-3.5L1384.4,338.2z"/>
+	<rect x="1241" y="316.9" pointer-events="none" class="st5" width="104.5" height="42.7"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1247.2021 341.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">f = &quot;тр</tspan><tspan x="33.4" y="0" class="st7 st8">е</tspan><tspan x="40" y="0" class="st7 st8">у</tspan><tspan x="46" y="0" class="st7 st8">го</tspan><tspan x="56.5" y="0" class="st7 st8">льник&quot;</tspan></text>
+	</g>
+	<path pointer-events="none" class="st2" d="M1176.4,338.1h32.6h25.6"/>
+	<path pointer-events="none" class="st3" d="M1239.9,338.1l-7,3.5l1.8-3.5l-1.8-3.5L1239.9,338.1z"/>
+	<path pointer-events="none" class="st2" d="M1362.2,416.5h17"/>
+	<path pointer-events="none" class="st3" d="M1384.4,416.5l-7,3.5l1.8-3.5l-1.8-3.5L1384.4,416.5z"/>
+	<rect x="1224.3" y="388.3" pointer-events="none" class="st5" width="137.8" height="56.3"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1167.1016 419.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">f = &quot;К</tspan><tspan x="28.3" y="0" class="st7 st8">в</tspan><tspan x="34.5" y="0" class="st7 st8">адр</tspan><tspan x="54.8" y="0" class="st7 st8">а</tspan><tspan x="61.3" y="0" class="st7 st8 st9">т</tspan><tspan x="65.4" y="0" class="st7 st8">, ро</tspan><tspan x="85.4" y="0" class="st7 st8">м</tspan><tspan x="93.6" y="0" class="st7 st8">б, п</tspan><tspan x="113.6" y="0" class="st7 st8">р</tspan><tspan x="120.1" y="0" class="st7 st8">ям</tspan><tspan x="134.9" y="0" class="st7 st8">о</tspan><tspan x="141.4" y="0" class="st7 st8">у</tspan><tspan x="147.4" y="0" class="st7 st8">го</tspan><tspan x="157.9" y="0" class="st7 st8">льник, трапеция&quot;</tspan></text>
+	</g>
+	<path pointer-events="none" class="st2" d="M1176.6,416.5h41.4"/>
+	<path pointer-events="none" class="st3" d="M1223.2,416.5l-7,3.5l1.8-3.5l-1.8-3.5L1223.2,416.5z"/>
+	<path pointer-events="none" class="st2" d="M1385.5,501.8V260.1v284.5l-236.2-0.1"/>
+	<path pointer-events="none" class="st3" d="M1144,544.5l7-3.5l-1.8,3.5l1.8,3.5L1144,544.5z"/>
+	<rect x="1241" y="238.7" pointer-events="none" class="st5" width="104.5" height="42.7"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1263.9688 263.6102)" class="st7 st8">f = &quot;линия&quot;</text>
+	</g>
+	<path pointer-events="none" class="st2" d="M1176.4,260.1h28.1v8.5h21.6"/>
+	<path pointer-events="none" class="st3" d="M1231.4,268.6l-7,3.5l1.8-3.5l-1.8-3.5L1231.4,268.6z"/>
+	<path pointer-events="none" class="st2" d="M1345.4,502.1h20.1l13.6-0.2"/>
+	<path pointer-events="none" class="st3" d="M1384.4,501.8l-6.9,3.6l1.7-3.5l-1.8-3.5L1384.4,501.8z"/>
+	<rect x="1241" y="480.5" pointer-events="none" class="st5" width="104.5" height="42.7"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1242.8955 505.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">f = &quot;Пятиу</tspan><tspan x="54.6" y="0" class="st7 st8">го</tspan><tspan x="65.1" y="0" class="st7 st8">льник&quot;</tspan></text>
+	</g>
+	<path pointer-events="none" class="st4" d="M1089.5,601.4l20-42.7h84.5l-20,42.7H1089.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1133.499 583.6102)" class="st7 st8">k, f</text>
+	</g>
+	<path pointer-events="none" class="st2" d="M1141.5,530.1v20l0.1,2.2"/>
+	<path pointer-events="none" class="st3" d="M1141.9,557.6l-3.9-6.8l3.6,1.5l3.4-1.9L1141.9,557.6z"/>
+	<ellipse pointer-events="none" class="st5" cx="1141.7" cy="658.3" rx="52.2" ry="21.3"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1125.3838 661.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">к</tspan><tspan x="5.4" y="0" class="st7 st8">онец</tspan></text>
+	</g>
+	<path pointer-events="none" class="st2" d="M1142,601.4v20.2l-0.2,9"/>
+	<path pointer-events="none" class="st3" d="M1141.8,635.8l-3.4-7.1l3.5,1.8l3.5-1.7L1141.8,635.8z"/>
+	<path pointer-events="none" class="st2" d="M1345.4,260.1h40.1v241.7"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1271.3662 72.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">Зад</tspan><tspan x="20.9" y="0" class="st7 st8">а</tspan><tspan x="27.3" y="0" class="st7 st8">ча 3</tspan></text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1187.0996 246.6102)" class="st7 st8">Да</text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1105.2812 298.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">Н</tspan><tspan x="8.7" y="0" class="st7 st8">е</tspan><tspan x="14.9" y="0" class="st7 st8">т</tspan></text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1104.2812 371.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">Н</tspan><tspan x="8.7" y="0" class="st7 st8">е</tspan><tspan x="14.9" y="0" class="st7 st8">т</tspan></text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1107.2812 462.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">Н</tspan><tspan x="8.7" y="0" class="st7 st8">е</tspan><tspan x="14.9" y="0" class="st7 st8">т</tspan></text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1106.2812 535.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">Н</tspan><tspan x="8.7" y="0" class="st7 st8">е</tspan><tspan x="14.9" y="0" class="st7 st8">т</tspan></text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1189.0996 323.6102)" class="st7 st8">Да</text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1189.0996 402.6102)" class="st7 st8">Да</text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1195.0996 486.6102)" class="st7 st8">Да</text>
+	</g>
+	<path pointer-events="none" class="st2" d="M107.3,86.6l-0.8,21.6"/>
+	<path pointer-events="none" class="st3" d="M106.3,113.5l-3.2-7.1l3.4,1.9l3.6-1.6L106.3,113.5z"/>
+	<ellipse pointer-events="none" class="st5" cx="106.7" cy="65.6" rx="42.8" ry="20"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 86.6133 69.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">н</tspan><tspan x="6.6" y="0" class="st7 st8">а</tspan><tspan x="13" y="0" class="st7 st8">ча</tspan><tspan x="26" y="0" class="st7 st8">л</tspan><tspan x="33.1" y="0" class="st7 st8">о</tspan></text>
+	</g>
+	<path pointer-events="none" class="st2" d="M109,138.6v20l-0.9,2.2"/>
+	<path pointer-events="none" class="st3" d="M105.9,165.6l-0.4-7.8l2.5,3l3.9-0.2L105.9,165.6z"/>
+	<path pointer-events="none" class="st4" d="M71.3,138.6l20-24h55.2l-20,24H71.3z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 90.8193 130.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">в</tspan><tspan x="6.4" y="0" class="st7 st8">в</tspan><tspan x="12.6" y="0" class="st7 st8">о</tspan><tspan x="19" y="0" class="st7 st8">д х</tspan></text>
+	</g>
+	<path pointer-events="none" class="st4" d="M105.5,166.6l40,40l-40,40l-40-40L105.5,166.6z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 84.2598 210.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">0</tspan><tspan x="6.7" y="0" class="st7 st8"> </tspan><tspan x="9.8" y="0" class="st7 st8 st9">T</tspan><tspan x="15.8" y="0" class="st7 st8">o 0.2</tspan></text>
+	</g>
+	<path pointer-events="none" class="st4" d="M105.5,266.6l40,40l-40,40l-40-40L105.5,266.6z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 79.2559 310.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">0.2</tspan><tspan x="16.7" y="0" class="st7 st8"> </tspan><tspan x="19.8" y="0" class="st7 st8 st9">T</tspan><tspan x="25.8" y="0" class="st7 st8">o 0.8</tspan></text>
+	</g>
+	<path pointer-events="none" class="st2" d="M105.5,446.6v21l-0.3,14.6"/>
+	<path pointer-events="none" class="st3" d="M105,487.5l-3.3-7.1l3.5,1.8l3.5-1.7L105,487.5z"/>
+	<path pointer-events="none" class="st4" d="M105.5,366.6l40,40l-40,40l-40-40L105.5,366.6z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 85.6543 410.6102)" class="st7 st8">Is &gt; 0.8</text>
+	</g>
+	<path pointer-events="none" class="st2" d="M65.5,206.6h-40c-6.7,0-10,3.3-10,10v80c0,6.7,3.3,10,10,10h27.6"/>
+	<path pointer-events="none" class="st3" d="M64.4,306.6l-15,7.5l3.8-7.5l-3.8-7.5L64.4,306.6z"/>
+	<path pointer-events="none" class="st2" d="M65.5,306.6h-40c-6.7,0-10,3.3-10,10v80c0,6.7,3.3,10,10,10h27.6"/>
+	<path pointer-events="none" class="st3" d="M64.4,406.6l-15,7.5l3.8-7.5l-3.8-7.5L64.4,406.6z"/>
+	<path pointer-events="none" class="st2" d="M315.5,206.6h46v304H152.9"/>
+	<path pointer-events="none" class="st3" d="M147.6,510.6l7-3.5l-1.8,3.5l1.8,3.5L147.6,510.6z"/>
+	<rect x="195.5" y="187.6" pointer-events="none" class="st5" width="120" height="38"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 207.6406 210.6102)" class="st7 st8">F = 1 + Log(1 + x)</text>
+	</g>
+	<path pointer-events="none" class="st2" d="M315.5,306.6h39.6"/>
+	<path pointer-events="none" class="st3" d="M360.4,306.6l-7,3.5l1.8-3.5l-1.8-3.5L360.4,306.6z"/>
+	<rect x="195.5" y="276.6" pointer-events="none" class="st5" width="120" height="60"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 206.0088 310.6102)" class="st7 st8">F = (1 + (x) ^ (1 /...</text>
+	</g>
+	<path pointer-events="none" class="st2" d="M315.5,406.6h41.6"/>
+	<path pointer-events="none" class="st3" d="M362.4,406.6l-7,3.5l1.8-3.5l-1.8-3.5L362.4,406.6z"/>
+	<rect x="195.5" y="390.6" pointer-events="none" class="st5" width="120" height="32"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 203.6562 410.6102)" class="st7 st8">F = 2 * (Exp(-2 * x))</text>
+	</g>
+	<path pointer-events="none" class="st2" d="M145.5,206.6h37.6"/>
+	<path pointer-events="none" class="st3" d="M194.4,206.6l-15,7.5l3.8-7.5l-3.8-7.5L194.4,206.6z"/>
+	<path pointer-events="none" class="st2" d="M145.5,306.6h37.6"/>
+	<path pointer-events="none" class="st3" d="M194.4,306.6l-15,7.5l3.8-7.5l-3.8-7.5L194.4,306.6z"/>
+	<path pointer-events="none" class="st2" d="M145.5,406.6h37.6"/>
+	<path pointer-events="none" class="st3" d="M194.4,406.6l-15,7.5l3.8-7.5l-3.8-7.5L194.4,406.6z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 450.3008 1119.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">н</tspan><tspan x="6.6" y="0" class="st7 st8">е</tspan><tspan x="12.9" y="0" class="st7 st8">т</tspan></text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 449.3008 1206.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">н</tspan><tspan x="6.6" y="0" class="st7 st8">е</tspan><tspan x="12.9" y="0" class="st7 st8">т</tspan></text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 446.3008 1301.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">н</tspan><tspan x="6.6" y="0" class="st7 st8">е</tspan><tspan x="12.9" y="0" class="st7 st8">т</tspan></text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 446.3008 1389.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">н</tspan><tspan x="6.6" y="0" class="st7 st8">е</tspan><tspan x="12.9" y="0" class="st7 st8">т</tspan></text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 159.0996 191.6102)" class="st7 st8">Да</text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 36.2812 254.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">Н</tspan><tspan x="8.7" y="0" class="st7 st8">е</tspan><tspan x="14.9" y="0" class="st7 st8">т</tspan></text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 162.0996 288.6102)" class="st7 st8">Да</text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 30.2812 357.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">Н</tspan><tspan x="8.7" y="0" class="st7 st8">е</tspan><tspan x="14.9" y="0" class="st7 st8">т</tspan></text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 162.0996 388.6102)" class="st7 st8">Да</text>
+	</g>
+	<path pointer-events="none" class="st2" d="M105,531.3v19.8v-8.5l-0.2,13.6"/>
+	<path pointer-events="none" class="st3" d="M104.8,561.5l-3.4-7l3.5,1.8l3.5-1.7L104.8,561.5z"/>
+	<path pointer-events="none" class="st4" d="M52.5,531.3l20-42.7H157l-20,42.7H52.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 76.1729 513.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">вы</tspan><tspan x="15" y="0" class="st7 st8">в</tspan><tspan x="21.2" y="0" class="st7 st8">о</tspan><tspan x="27.7" y="0" class="st7 st8">д x, y</tspan></text>
+	</g>
+	<ellipse pointer-events="none" class="st5" cx="104.7" cy="583.9" rx="52.2" ry="21.3"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 88.3838 587.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">к</tspan><tspan x="5.4" y="0" class="st7 st8">онец</tspan></text>
+	</g>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 216.3662 78.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">Зад</tspan><tspan x="20.9" y="0" class="st7 st8">а</tspan><tspan x="27.3" y="0" class="st7 st8">ча 1</tspan></text>
+	</g>
+	<path pointer-events="none" class="st2" d="M622,34.6v20v-14v13.6"/>
+	<path pointer-events="none" class="st3" d="M622,59.5l-3.5-7l3.5,1.8l3.5-1.8L622,59.5z"/>
+	<ellipse pointer-events="none" class="st5" cx="622" cy="10.6" rx="36" ry="24"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 602.6133 14.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">н</tspan><tspan x="6.6" y="0" class="st7 st8">а</tspan><tspan x="13" y="0" class="st7 st8">ча</tspan><tspan x="26" y="0" class="st7 st8">л</tspan><tspan x="33.1" y="0" class="st7 st8">о</tspan></text>
+	</g>
+	<path pointer-events="none" class="st2" d="M622,98.6v20l-0.4,3.7"/>
+	<path pointer-events="none" class="st3" d="M621.1,127.5l-2.8-7.3l3.3,2.1l3.7-1.4L621.1,127.5z"/>
+	<path pointer-events="none" class="st4" d="M584,98.6l20-38h56l-20,38H584z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 604.8193 83.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">в</tspan><tspan x="6.4" y="0" class="st7 st8">в</tspan><tspan x="12.6" y="0" class="st7 st8">о</tspan><tspan x="19" y="0" class="st7 st8">д х</tspan></text>
+	</g>
+	<path pointer-events="none" class="st2" d="M661,168.6h73.6"/>
+	<path pointer-events="none" class="st3" d="M739.9,168.6l-7,3.5l1.8-3.5l-1.8-3.5L739.9,168.6z"/>
+	<path pointer-events="none" class="st4" d="M621,128.6l40,40l-40,40l-40-40L621,128.6z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 601.9268 172.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">0</tspan><tspan x="6.7" y="0" class="st7 st8"> </tspan><tspan x="9.8" y="0" class="st7 st8 st9">T</tspan><tspan x="15.8" y="0" class="st7 st8">o 10</tspan></text>
+	</g>
+	<path pointer-events="none" class="st2" d="M661,278.6h63.6"/>
+	<path pointer-events="none" class="st3" d="M729.9,278.6l-7,3.5l1.8-3.5l-1.8-3.5L729.9,278.6z"/>
+	<path pointer-events="none" class="st4" d="M621,238.6l40,40l-40,40l-40-40L621,238.6z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 595.2529 282.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">10</tspan><tspan x="13.3" y="0" class="st7 st8"> </tspan><tspan x="16.5" y="0" class="st7 st8 st9">T</tspan><tspan x="22.5" y="0" class="st7 st8">o 100</tspan></text>
+	</g>
+	<path pointer-events="none" class="st2" d="M661,388.6h63.6"/>
+	<path pointer-events="none" class="st3" d="M729.9,388.6l-7,3.5l1.8-3.5l-1.8-3.5L729.9,388.6z"/>
+	<path pointer-events="none" class="st4" d="M621,348.6l40,40l-40,40l-40-40L621,348.6z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 588.5791 392.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">100</tspan><tspan x="20" y="0" class="st7 st8"> </tspan><tspan x="23.1" y="0" class="st7 st8 st9">T</tspan><tspan x="29.1" y="0" class="st7 st8">o 1000</tspan></text>
+	</g>
+	<path pointer-events="none" class="st2" d="M661,508.6h63.6"/>
+	<path pointer-events="none" class="st3" d="M729.9,508.6l-7,3.5l1.8-3.5l-1.8-3.5L729.9,508.6z"/>
+	<path pointer-events="none" class="st4" d="M621,468.6l40,40l-40,40l-40-40L621,468.6z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 581.9053 512.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">1000</tspan><tspan x="26.7" y="0" class="st7 st8"> </tspan><tspan x="29.8" y="0" class="st7 st8 st9">T</tspan><tspan x="35.8" y="0" class="st7 st8">o 10000</tspan></text>
+	</g>
+	<path pointer-events="none" class="st2" d="M661,618.6h53.6"/>
+	<path pointer-events="none" class="st3" d="M719.9,618.6l-7,3.5l1.8-3.5l-1.8-3.5L719.9,618.6z"/>
+	<path pointer-events="none" class="st4" d="M621,578.6l40,40l-40,40l-40-40L621,578.6z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 576.9043 622.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">10000</tspan><tspan x="33.4" y="0" class="st7 st8"> </tspan><tspan x="36.5" y="0" class="st7 st8 st9">T</tspan><tspan x="42.5" y="0" class="st7 st8">o 1000...</tspan></text>
+	</g>
+	<path pointer-events="none" class="st4" d="M731,186.6l20-36h100l-20,36H731z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 754.498 172.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">О</tspan><tspan x="9.1" y="0" class="st7 st8">дн</tspan><tspan x="22.7" y="0" class="st7 st8">о</tspan><tspan x="29.2" y="0" class="st7 st8">зн</tspan><tspan x="41.4" y="0" class="st7 st8">а</tspan><tspan x="47.8" y="0" class="st7 st8">чное</tspan></text>
+	</g>
+	<path pointer-events="none" class="st4" d="M721,296.6l20-36h100l-20,36H721z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 748.998 282.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">Д</tspan><tspan x="8.1" y="0" class="st7 st8">в</tspan><tspan x="14.2" y="0" class="st7 st8">узн</tspan><tspan x="32.4" y="0" class="st7 st8">а</tspan><tspan x="38.8" y="0" class="st7 st8">чное</tspan></text>
+	</g>
+	<path pointer-events="none" class="st4" d="M721,405.6l20-34h100l-20,34H721z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 746.3145 392.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">Т</tspan><tspan x="6.7" y="0" class="st7 st8">р</tspan><tspan x="13.3" y="0" class="st7 st8">е</tspan><tspan x="19.7" y="0" class="st7 st8">х</tspan><tspan x="25.6" y="0" class="st7 st8">зн</tspan><tspan x="37.7" y="0" class="st7 st8">а</tspan><tspan x="44.1" y="0" class="st7 st8">чное</tspan></text>
+	</g>
+	<path pointer-events="none" class="st4" d="M721,523.6l20-30h100l-20,30H721z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 735.4453 512.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">Ч</tspan><tspan x="8" y="0" class="st7 st8">е</tspan><tspan x="14.3" y="0" class="st7 st8">тыр</tspan><tspan x="35.1" y="0" class="st7 st8">е</tspan><tspan x="41.5" y="0" class="st7 st8">х</tspan><tspan x="47.3" y="0" class="st7 st8">зн</tspan><tspan x="59.5" y="0" class="st7 st8">а</tspan><tspan x="65.9" y="0" class="st7 st8">чное</tspan></text>
+	</g>
+	<path pointer-events="none" class="st4" d="M711,635.6l20-34h100l-20,34H711z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 735.4561 622.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">Пятизн</tspan><tspan x="39.5" y="0" class="st7 st8">а</tspan><tspan x="45.9" y="0" class="st7 st8">чное</tspan></text>
+	</g>
+	<ellipse pointer-events="none" class="st5" cx="727.5" cy="698.6" rx="28.5" ry="19"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 711.3838 702.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">к</tspan><tspan x="5.4" y="0" class="st7 st8">онец</tspan></text>
+	</g>
+	<path pointer-events="none" class="st2" d="M581,168.6h-30c-6.7,0-10,3.3-10,10v90c0,6.7,3.3,10,10,10h23.6"/>
+	<path pointer-events="none" class="st3" d="M579.9,278.6l-7,3.5l1.8-3.5l-1.8-3.5L579.9,278.6z"/>
+	<path pointer-events="none" class="st2" d="M581,278.6h-30c-6.7,0-10,3.3-10,10v90c0,6.7,3.3,10,10,10h23.6"/>
+	<path pointer-events="none" class="st3" d="M579.9,388.6l-7,3.5l1.8-3.5l-1.8-3.5L579.9,388.6z"/>
+	<path pointer-events="none" class="st2" d="M581,388.6h-30c-6.7,0-10,3.3-10,10v100c0,6.7,3.3,10,10,10h23.6"/>
+	<path pointer-events="none" class="st3" d="M579.9,508.6l-7,3.5l1.8-3.5l-1.8-3.5L579.9,508.6z"/>
+	<path pointer-events="none" class="st2" d="M581,508.6h-30c-6.7,0-10,3.3-10,10v90c0,6.7,3.3,10,10,10h23.6"/>
+	<path pointer-events="none" class="st3" d="M579.9,618.6l-7,3.5l1.8-3.5l-1.8-3.5L579.9,618.6z"/>
+	<path pointer-events="none" class="st2" d="M581,618.6h-30c-6.7,0-10.1,3.3-10.2,10l-0.7,42c-0.1,6.7,3.2,10,9.8,10l171.1-0.9"/>
+	<path pointer-events="none" class="st3" d="M726.4,679.6l-7,3.5l1.7-3.5l-1.8-3.5L726.4,679.6z"/>
+	<path pointer-events="none" class="st2" d="M841,168.6h70c6.7,0,10,3.3,9.9,10l-2.9,494c0,6.7-3.4,9.9-10.1,9.8l-174.1-2.7"/>
+	<path pointer-events="none" class="st3" d="M728.6,679.6l7-3.4l-1.8,3.5l1.7,3.5L728.6,679.6z"/>
+	<path pointer-events="none" class="st2" d="M831,278.6h80c6.7,0,10,3.3,10,10l-1,382c0,6.7-3.4,10-10,10l-176.1-0.9"/>
+	<path pointer-events="none" class="st3" d="M728.6,679.6l7-3.5l-1.8,3.5l1.7,3.5L728.6,679.6z"/>
+	<path pointer-events="none" class="st2" d="M831,388.6h80c6.7,0,10,3.3,9.9,10l-1.9,273c0,6.7-3.4,10-10.1,9.9l-175.1-1.8"/>
+	<path pointer-events="none" class="st3" d="M728.6,679.6l7-3.4l-1.8,3.5l1.7,3.5L728.6,679.6z"/>
+	<path pointer-events="none" class="st2" d="M831,508.6h80c6.7,0,10,3.3,10,10v152c0,6.7-3.3,10-10,10l-177.1-0.9"/>
+	<path pointer-events="none" class="st3" d="M728.6,679.6l7-3.5l-1.8,3.5l1.7,3.5L728.6,679.6z"/>
+	<path pointer-events="none" class="st2" d="M821,618.6h90c6.7,0,10,3.3,10,10v42c0,6.7-3.3,10-10,10l-177.1-0.9"/>
+	<path pointer-events="none" class="st3" d="M728.6,679.6l7-3.5l-1.8,3.5l1.7,3.5L728.6,679.6z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 758.3662 72.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">Зад</tspan><tspan x="20.9" y="0" class="st7 st8">а</tspan><tspan x="27.3" y="0" class="st7 st8">ча 2</tspan></text>
+	</g>
+	<ellipse pointer-events="none" class="st5" cx="1114.9" cy="871.9" rx="34.9" ry="23.2"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1094.6133 875.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">н</tspan><tspan x="6.6" y="0" class="st7 st8">а</tspan><tspan x="13" y="0" class="st7 st8">ча</tspan><tspan x="26" y="0" class="st7 st8">л</tspan><tspan x="33.1" y="0" class="st7 st8">о</tspan></text>
+	</g>
+	<ellipse pointer-events="none" class="st5" cx="1120.5" cy="1546.4" rx="38.6" ry="25.8"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1104.3838 1549.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">к</tspan><tspan x="5.4" y="0" class="st7 st8">онец</tspan></text>
+	</g>
+	<path pointer-events="none" class="st2" d="M74.7,847.1l0.3,20l0.2,6.5"/>
+	<path pointer-events="none" class="st3" d="M75.5,878.8l-3.8-6.9l3.6,1.6l3.4-1.9L75.5,878.8z"/>
+	<ellipse pointer-events="none" class="st5" cx="74.7" cy="823.9" rx="34.9" ry="23.2"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 54.6133 827.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">н</tspan><tspan x="6.6" y="0" class="st7 st8">а</tspan><tspan x="13" y="0" class="st7 st8">ча</tspan><tspan x="26" y="0" class="st7 st8">л</tspan><tspan x="33.1" y="0" class="st7 st8">о</tspan></text>
+	</g>
+	<ellipse pointer-events="none" class="st5" cx="74.7" cy="1464.4" rx="38.6" ry="25.8"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 58.3838 1467.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">к</tspan><tspan x="5.4" y="0" class="st7 st8">онец</tspan></text>
+	</g>
+	<path pointer-events="none" class="st2" d="M75.5,913.9v20.2v14.1"/>
+	<path pointer-events="none" class="st3" d="M75.5,953.5l-3.5-7l3.5,1.8l3.5-1.8L75.5,953.5z"/>
+	<path pointer-events="none" class="st4" d="M27.9,913.9l20-34h75.3l-20,34H27.9z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 57.8193 900.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">в</tspan><tspan x="6.4" y="0" class="st7 st8">в</tspan><tspan x="12.6" y="0" class="st7 st8">о</tspan><tspan x="19" y="0" class="st7 st8">д х</tspan></text>
+	</g>
+	<path pointer-events="none" class="st2" d="M75.5,1030.3v19.8v9.1"/>
+	<path pointer-events="none" class="st3" d="M75.5,1064.5l-3.5-7l3.5,1.8l3.5-1.8L75.5,1064.5z"/>
+	<rect x="15.5" y="954.6" pointer-events="none" class="st5" width="120" height="75.7"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 24.3184 995.6102)" class="st7 st8">y2 = Str(x Mod 2)...</text>
+	</g>
+	<path pointer-events="none" class="st2" d="M115.5,1094.6h20h13"/>
+	<path pointer-events="none" class="st3" d="M153.8,1094.6l-7,3.5l1.8-3.5l-1.8-3.5L153.8,1094.6z"/>
+	<path pointer-events="none" class="st2" d="M75.5,1123.6v20v9.6"/>
+	<path pointer-events="none" class="st3" d="M75.5,1158.5l-3.5-7l3.5,1.8l3.5-1.8L75.5,1158.5z"/>
+	<path pointer-events="none" class="st4" d="M75.5,1065.6l40,29l-40,29l-40-29L75.5,1065.6z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 58.9883 1098.6102)" class="st7 st8">y2 = 0</text>
+	</g>
+	<rect x="154.9" y="1073.6" pointer-events="none" class="st5" width="120" height="42"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 170.5459 1098.6102)" class="st7 st8">ans = ans + &quot;2, &quot;</text>
+	</g>
+	<path pointer-events="none" class="st2" d="M115.5,1188.6h20h13"/>
+	<path pointer-events="none" class="st3" d="M153.8,1188.6l-7,3.5l1.8-3.5l-1.8-3.5L153.8,1188.6z"/>
+	<path pointer-events="none" class="st2" d="M75.5,1217.6v20l-0.3,6.7"/>
+	<path pointer-events="none" class="st3" d="M75,1249.6l-3.2-7.1l3.4,1.9l3.6-1.6L75,1249.6z"/>
+	<path pointer-events="none" class="st4" d="M75.5,1159.6l40,29l-40,29l-40-29L75.5,1159.6z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 58.9883 1192.6102)" class="st7 st8">y3 = 0</text>
+	</g>
+	<path pointer-events="none" class="st2" d="M114.9,1279.6H135h12.9"/>
+	<path pointer-events="none" class="st3" d="M153.1,1279.6l-7,3.5l1.8-3.5l-1.8-3.5L153.1,1279.6z"/>
+	<path pointer-events="none" class="st2" d="M75,1308.5v20.1v9.7"/>
+	<path pointer-events="none" class="st3" d="M75,1343.6l-3.5-7l3.5,1.8l3.5-1.8L75,1343.6z"/>
+	<path pointer-events="none" class="st4" d="M74.9,1250.6l40,29l-40,29l-40-29L74.9,1250.6z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 57.9883 1283.6102)" class="st7 st8">y5 = 0</text>
+	</g>
+	<path pointer-events="none" class="st2" d="M212,1300.6v24H75l-0.1,13.6"/>
+	<path pointer-events="none" class="st3" d="M74.9,1343.5l-3.5-7l3.5,1.8l3.5-1.7L74.9,1343.5z"/>
+	<rect x="154.2" y="1258.6" pointer-events="none" class="st5" width="120" height="42"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 170.5459 1283.6102)" class="st7 st8">ans = ans + &quot;5, &quot;</text>
+	</g>
+	<path pointer-events="none" class="st2" d="M114.9,1373.6H135h12.9"/>
+	<path pointer-events="none" class="st3" d="M153.1,1373.6l-7,3.5l1.8-3.5l-1.8-3.5L153.1,1373.6z"/>
+	<path pointer-events="none" class="st2" d="M75,1402.5v20.1l-0.2,9.6"/>
+	<path pointer-events="none" class="st3" d="M74.8,1437.5l-3.4-7.1l3.5,1.8l3.5-1.7L74.8,1437.5z"/>
+	<path pointer-events="none" class="st4" d="M74.9,1344.6l40,29l-40,29l-40-29L74.9,1344.6z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 57.9883 1377.6102)" class="st7 st8">y7 = 0</text>
+	</g>
+	<path pointer-events="none" class="st2" d="M214,1394.6v70l-94.3-0.2"/>
+	<path pointer-events="none" class="st3" d="M114.5,1464.4l7-3.5l-1.8,3.5l1.7,3.5L114.5,1464.4z"/>
+	<rect x="154.2" y="1352.6" pointer-events="none" class="st5" width="120" height="42"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 170.5459 1377.6102)" class="st7 st8">ans = ans + &quot;7, &quot;</text>
+	</g>
+	<path pointer-events="none" class="st2" d="M212.9,1206.6l0.1,24H76l-0.1,13.6"/>
+	<path pointer-events="none" class="st3" d="M75.9,1249.5l-3.5-7l3.5,1.8l3.5-1.7L75.9,1249.5z"/>
+	<rect x="154.9" y="1167.6" pointer-events="none" class="st5" width="120" height="42"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 170.5459 1192.6102)" class="st7 st8">ans = ans + &quot;3, &quot;</text>
+	</g>
+	<path pointer-events="none" class="st2" d="M212.9,1115.6l0.1,24H76l-0.1,13.6"/>
+	<path pointer-events="none" class="st3" d="M75.9,1158.5l-3.5-7l3.5,1.8l3.5-1.7L75.9,1158.5z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 219.3662 855.6102)" class="st6"><tspan x="0" y="0" class="st7 st8">Зад</tspan><tspan x="20.9" y="0" class="st7 st8">а</tspan><tspan x="27.3" y="0" class="st7 st8">ча 4</tspan></text>
+	</g>
+</g>
+<a xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems"  transform="translate(0,-5)">
+	<text transform="matrix(1 0 0 1 628.1006 1579.6102)" class="st7" style="font-size:10px;">Viewer does not support full SVG 1.1</text>
+</a>
+<path class="st0" d="z"/>
+</svg>
